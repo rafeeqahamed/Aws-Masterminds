@@ -7,7 +7,7 @@ I have downloaded the AWS-CLI from https://awscli.amazonaws.com/AWSCLIV2.msi
 
 Step 1 : Click the link https://awscli.amazonaws.com/AWSCLIV2.msi where the AWS CLI MSI file will be downloaded
  
- ![Aws-Masterminds/_docs/assets/Screenshot 2023-02-18 082625.png ]
+ ![image](Aws-Masterminds/_docs/assets/Screenshot 2023-02-18 082625.png)
 
 Step 2 : After successfully installing the AWS CLI i verified by typing the following cmd "aws" and i received the below output.
 
