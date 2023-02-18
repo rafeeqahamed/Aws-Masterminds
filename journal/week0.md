@@ -1,5 +1,10 @@
 # Week 0 — Billing and Architecture
 
+## Resetting the Password for user created. 
+
+![Resetting Password](https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/change%20user%20password.png)
+
+
 ## Install AWS CLI
 The AWS CLI can be installed in 3 platforms Linux, Mac-OS and Windows , Since i have windows i will be installing the AWS-CLI Windows 
 Reference: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
