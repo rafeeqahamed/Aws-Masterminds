@@ -42,3 +42,8 @@ Step 3 : To verify if i'm able to connect to the AWS account , i required to con
 As Json is default for AWS-CLi i choose the json format.
 
 aws --cli-auto-prompt is very useful to find which cmd you would like to execute 
+
+## Architecture Diagram in Lucid Chard 
+
+Below is the link for the archiectural diagram. 
+https://lucid.app/lucidchart/82cbeaa2-836c-41c0-81f2-fd68722c77f7/edit?viewport_loc=-48%2C-335%2C2219%2C1079%2C0_0&invitationId=inv_ec9f7d4d-328d-45f4-a01a-cb700a59c898
