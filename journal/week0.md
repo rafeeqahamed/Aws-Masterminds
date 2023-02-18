@@ -45,7 +45,7 @@ aws --cli-auto-prompt is very useful to find which cmd you would like to execute
 
 ## Architecture Conecptual 
 
-
+![conceptual Design](https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/Napking%20Design.png)
 
 ## Architecture Diagram in Lucid Chard 
 
