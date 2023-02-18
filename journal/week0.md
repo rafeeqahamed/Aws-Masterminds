@@ -43,6 +43,10 @@ As Json is default for AWS-CLi i choose the json format.
 
 aws --cli-auto-prompt is very useful to find which cmd you would like to execute 
 
+## Architecture Conecptual 
+
+
+
 ## Architecture Diagram in Lucid Chard 
 
 Below is the link for the archiectural diagram. 
