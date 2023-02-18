@@ -22,10 +22,11 @@ Step 3 : To verify if i'm able to connect to the AWS account , i required to con
   4. click users on the left tab 
   5. create a user or click use the existing user 
   6. You wil find tabs like "Permissions", "Groups", "Tags", "SecurityCredentials", "Access Advisor" , Clck Security Credentials 
-  7. Generate the access key as follows , Once the access key is generated in AWS cli type "aws configure" 
-  8. Provide the AWS access key , Security token , Region and output format. 
-  9. Region can be where you are located i choose region to be me-south-1 as i'm located in Bahrain 
-  10. output format can be of 4 types Refernece : https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-output-format.html
+  !.[Access_Key](https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/Screenshot%202023-02-18%20084004.png)
+  8. Generate the access key as follows , Once the access key is generated in AWS cli type "aws configure" 
+  9. Provide the AWS access key , Security token , Region and output format. 
+  10. Region can be where you are located i choose region to be me-south-1 as i'm located in Bahrain 
+  11. output format can be of 4 types Refernece : https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-output-format.html
        1. json 
        2. yaml
        3. yam-stream
