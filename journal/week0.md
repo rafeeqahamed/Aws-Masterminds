@@ -7,7 +7,6 @@ I have downloaded the AWS-CLI from https://awscli.amazonaws.com/AWSCLIV2.msi
 
 Step 1 : Click the link https://awscli.amazonaws.com/AWSCLIV2.msi where the AWS CLI MSI file will be downloaded
 
-!.[install].Aws-Masterminds/_docs/assets/Screenshot 2023-02-18 082625
 
 Step 2 : After successfully installing the AWS CLI i verified by typing the following cmd "aws" and i received the below output.
 
@@ -29,3 +28,5 @@ Step 3 : To verify if i'm able to connect to the AWS account , i required to con
        4. text 
        5. table 
 As Json is default for AWS-CLi i choose the json format.
+
+aws --cli-auto-prompt is very useful to find which cmd you would like to execute 
