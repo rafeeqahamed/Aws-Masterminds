@@ -5,7 +5,7 @@ The AWS CLI can be installed in 3 platforms Linux, Mac-OS and Windows , Since i 
 Reference: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 I have downloaded the AWS-CLI from https://awscli.amazonaws.com/AWSCLIV2.msi 
 
-![Installation]([asset/Screenshot 2023-02-18 082625.png](https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/Screenshot%202023-02-18%20082625.png))
+![Installation](https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/Screenshot%202023-02-18%20082625.png))
 
 Step 1 : Click the link https://awscli.amazonaws.com/AWSCLIV2.msi where the AWS CLI MSI file will be downloaded
  
