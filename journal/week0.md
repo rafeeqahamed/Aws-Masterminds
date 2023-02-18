@@ -6,8 +6,8 @@ Reference: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-inst
 
 I have downloaded the AWS-CLI from https://awscli.amazonaws.com/AWSCLIV2.msi 
 
-![Installation of AWS_CLI]
-(https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/Screenshot%202023-02-18%20082625.png)
+![Installation of AWS_CLI](https://github.com/rafeeqahamed/Aws-Masterminds/blob/main/journal/asset/Screenshot%202023-02-18%20082625.png)
+
 Step 1 : Click the link https://awscli.amazonaws.com/AWSCLIV2.msi where the AWS CLI MSI file will be downloaded
  
 Step 2 : After successfully installing the AWS CLI i verified by typing the following cmd "aws" and i received the below output.
